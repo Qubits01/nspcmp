@@ -1,5 +1,5 @@
 # nspcmp
-This python script will compare all ncas of two nsp files and determine if they are identical.  
+This python script will compare all ncas of two nsp files and determine if they are all identical.  
 It does so without extracting or decrypting the files.
 
 ## Usage
